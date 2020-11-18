@@ -10,6 +10,7 @@ Step2 : Setup the local environment of ReactJs.
 
 Step3 : Write the following command in the console: 
 >create-react-app tictactoe.
+
 In this way,You have created the directory named as "tictactoe". 
 
 Step4 : Now replace the default src folder (which is inside the directory), with the src folder of this downloaded github repository.
@@ -18,6 +19,7 @@ Now you are ready to run  this file!
 Step5 : To run this file,use the following command:
 >cd tictactoe
 >yarn start
+
 
 Congratulations! You’ve created a tic-tac-toe game that:
 
